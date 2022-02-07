@@ -1,0 +1,11 @@
+{
+  "name": "@iamgx/quick-print",
+  "version": "1.0.2",
+  "author": "GeXing",
+  "description": "快速打印页面",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "release": "npm version patch && npm publish --access public"
+  }
+}
