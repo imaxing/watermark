@@ -1,6 +1,6 @@
 {
   "name": "@iamgx/easy-copy",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "author": "GeXing",
   "description": "复制内容",
   "main": "src/index.js",
