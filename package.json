@@ -1,8 +1,8 @@
 {
-  "name": "@iamgx/quick-print",
+  "name": "@iamgx/easy-copy",
   "version": "1.0.2",
   "author": "GeXing",
-  "description": "快速打印页面",
+  "description": "复制内容",
   "main": "src/index.js",
   "module": "src/index.js",
   "scripts": {
