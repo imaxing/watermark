@@ -1,11 +1,14 @@
 {
   "name": "@iamgx/watermark",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "GeXing",
   "description": "生成浏览器水印",
   "main": "src/index.js",
   "module": "src/index.js",
-  "keywords": ["watermark", "浏览器水印"],
+  "keywords": [
+    "watermark",
+    "浏览器水印"
+  ],
   "homepage": "https://github.com/imaxing/watermark",
   "scripts": {
     "release": "npm version patch && npm publish --access public"
