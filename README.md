@@ -1,7 +1,28 @@
-# js快速复制方法
+# 生成浏览器水印
 
+
+### usage
+
+```javascript
+import Watermark from '@iamgx/watermark'
+Watermark({ text: '水印' });
 
 ```
-import copy from '@iamgx/easy-copy'
-copy('哈哈哈123');
+
+
+### property
+
+```javascript
+import Watermark from '@iamgx/watermark'
+Watermark({ 
+  target: () => selector,
+  text: '水印内容',
+  width: 140,
+  height: 80,
+  color: "black",
+  opacity: 0.2,
+  zIndex: 999999999,
+  font: "15px Arial",
+});
+
 ```
