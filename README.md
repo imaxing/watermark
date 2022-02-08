@@ -70,6 +70,6 @@ font:  "15px Arial",
 
 ### live demo
 
-[点击这里](https://imaxing.github.io/#water-mask)
+[点击这里](https://imaxing.github.io/#water-mark)
 
   
