@@ -1,6 +1,6 @@
 {
   "name": "@iamgx/watermark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "GeXing",
   "description": "生成浏览器水印",
   "main": "src/index.js",
