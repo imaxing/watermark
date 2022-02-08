@@ -5,6 +5,7 @@
   "description": "生成浏览器水印",
   "main": "src/index.js",
   "module": "src/index.js",
+  "homepage": "https://github.com/imaxing/watermark",
   "scripts": {
     "release": "npm version patch && npm publish --access public"
   }

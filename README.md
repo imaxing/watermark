@@ -1,6 +1,13 @@
 # 生成浏览器水印
 
 
+### install
+
+```bash
+npm i @iamgx/watermark -S
+
+```
+
 ### usage
 
 ```javascript
