@@ -1,35 +1,75 @@
 # 生成浏览器水印
 
+  
+  
 
 ### install
 
+  
+
 ```bash
+
 npm i @iamgx/watermark -S
 
+  
+
 ```
+
+  
 
 ### usage
 
+  
+
 ```javascript
-import Watermark from '@iamgx/watermark'
-Watermark({ text: '水印' });
+
+import Watermark from  '@iamgx/watermark'
+
+Watermark({ text:  '水印' });
+
+  
 
 ```
 
+  
+  
 
 ### property
 
+  
+
 ```javascript
-import Watermark from '@iamgx/watermark'
-Watermark({ 
-  target: () => selector,
-  text: '水印内容',
-  width: 140,
-  height: 80,
-  color: "black",
-  opacity: 0.2,
-  zIndex: 999999999,
-  font: "15px Arial",
+
+import Watermark from  '@iamgx/watermark'
+
+Watermark({
+
+target: () => selector,
+
+text:  '水印内容',
+
+width:  140,
+
+height:  80,
+
+color:  "black",
+
+opacity:  0.2,
+
+zIndex:  999999999,
+
+font:  "15px Arial",
+
 });
 
+  
+
+
 ```
+
+
+### live demo
+
+[点击这里](https://imaxing.github.io/#water-mask)
+
+  
